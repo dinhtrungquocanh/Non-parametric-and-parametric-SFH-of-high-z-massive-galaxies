@@ -5,6 +5,7 @@ My thesis advisor: Dr. Abdurro'uf (Indiana University).
 
 
 <img width="875" height="475" alt="galaxy-3SFHmodels" src="https://github.com/user-attachments/assets/604cb7e1-2503-453e-b608-b66fdbae9d05" /> 
+
 The above figure shows 3 different shapes of a galaxy's SFH, corresponding to 3 SFH models. 
 
 
